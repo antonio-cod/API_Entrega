@@ -42,3 +42,112 @@
 2023-05-15 20:26:00,356 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2023-05-15 20:27:34,738 [Worker-13: Launching alalog-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Desenvolvimento\ApiEntrega\alalog-api
 2023-05-15 20:27:35,451 [Worker-13: Launching alalog-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2023-05-15 20:38:58,169 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-15 20:38:58,190 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-15 20:38:58,199 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-15 20:38:58,712 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-15 20:38:58,713 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-15 20:38:58,717 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-15 20:43:23,163 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-15 20:43:23,259 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-15 20:43:23,274 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-15 20:47:10,214 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algalog:alalog-api:0.0.1-SNAPSHOT @ C:\Desenvolvimento\ApiEntrega\alalog-api\pom.xml.
+2023-05-15 20:47:25,234 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-15 20:47:25,236 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-15 20:47:25,247 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-15 20:47:28,097 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-15 20:47:31,425 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algalog:alalog-api:0.0.1-SNAPSHOT @ C:\Desenvolvimento\ApiEntrega\alalog-api\pom.xml.
+2023-05-15 20:47:34,113 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /alalog-api/src/main/java
+2023-05-15 20:47:34,116 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /alalog-api/src/main/resources
+2023-05-15 20:47:34,118 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /alalog-api/src/main/resources
+2023-05-15 20:47:34,122 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /alalog-api/src/test/java
+2023-05-18 19:19:56,894 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-18 19:20:32,073 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algalog:alalog-api:0.0.1-SNAPSHOT @ C:\Desenvolvimento\ApiEntrega\alalog-api\pom.xml.
+2023-05-18 19:20:51,710 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-18 19:20:51,929 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 19:20:51,951 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-18 19:26:23,722 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algalog:alalog-api:0.0.1-SNAPSHOT @ C:\Desenvolvimento\ApiEntrega\alalog-api\pom.xml.
+2023-05-18 19:26:25,667 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.6/spring-boot-devtools-3.0.6.pom
+2023-05-18 19:26:26,074 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.6/spring-boot-devtools-3.0.6.pom
+2023-05-18 19:26:26,458 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.6/spring-boot-devtools-3.0.6.jar
+2023-05-18 19:26:27,208 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.6/spring-boot-devtools-3.0.6.jar
+2023-05-18 19:26:35,226 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 19:26:35,228 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 19:26:35,242 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-18 19:26:37,983 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.6/spring-boot-devtools-3.0.6-sources.jar
+2023-05-18 19:26:39,889 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.6/spring-boot-devtools-3.0.6-sources.jar
+2023-05-18 19:26:40,860 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-18 19:26:41,016 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 19:26:41,125 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-18 19:26:42,621 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:3.0.6
+2023-05-18 19:26:43,852 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 19:26:43,861 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 19:26:43,868 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-18 19:28:01,614 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-18 19:28:01,665 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 19:28:01,681 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-18 19:32:09,881 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algalog:alalog-api:0.0.1-SNAPSHOT @ C:\Desenvolvimento\ApiEntrega\alalog-api\pom.xml.
+2023-05-18 19:32:56,094 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 19:32:56,096 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 19:32:56,113 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-18 19:32:56,306 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-18 19:32:58,775 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algalog:alalog-api:0.0.1-SNAPSHOT @ C:\Desenvolvimento\ApiEntrega\alalog-api\pom.xml.
+2023-05-18 19:33:04,164 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /alalog-api/src/main/java
+2023-05-18 19:33:04,167 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /alalog-api/src/main/resources
+2023-05-18 19:33:04,169 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /alalog-api/src/main/resources
+2023-05-18 19:33:04,172 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /alalog-api/src/test/java
+2023-05-18 19:53:54,432 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-18 19:54:59,015 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algalog:alalog-api:0.0.1-SNAPSHOT @ C:\Desenvolvimento\ApiEntrega\alalog-api\pom.xml.
+2023-05-18 19:55:30,601 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-18 19:55:30,753 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 19:55:30,766 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-18 20:05:52,453 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-18 20:06:05,494 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algalog:alalog-api:0.0.1-SNAPSHOT @ C:\Desenvolvimento\ApiEntrega\alalog-api\pom.xml.
+2023-05-18 20:06:15,583 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/flywaydb/flyway-core/9.5.1/flyway-core-9.5.1-sources.jar
+2023-05-18 20:06:16,584 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/flywaydb/flyway-core/9.5.1/flyway-core-9.5.1-sources.jar
+2023-05-18 20:06:16,797 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /alalog-api/src/main/java
+2023-05-18 20:06:16,799 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /alalog-api/src/main/resources
+2023-05-18 20:06:16,801 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /alalog-api/src/main/resources
+2023-05-18 20:06:16,803 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /alalog-api/src/test/java
+2023-05-18 20:06:19,714 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.flywaydb:flyway-core:9.5.1
+2023-05-18 20:06:19,869 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/electronwill/night-config/toml/3.6.6/toml-3.6.6-sources.jar
+2023-05-18 20:06:20,238 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/electronwill/night-config/toml/3.6.6/toml-3.6.6-sources.jar
+2023-05-18 20:06:21,392 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.electronwill.night-config:toml:3.6.6
+2023-05-18 20:06:21,553 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/electronwill/night-config/core/3.6.6/core-3.6.6-sources.jar
+2023-05-18 20:06:21,696 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/electronwill/night-config/core/3.6.6/core-3.6.6-sources.jar
+2023-05-18 20:06:22,298 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.electronwill.night-config:core:3.6.6
+2023-05-18 20:06:22,445 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/flywaydb/flyway-mysql/9.5.1/flyway-mysql-9.5.1-sources.jar
+2023-05-18 20:06:23,075 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/flywaydb/flyway-mysql/9.5.1/flyway-mysql-9.5.1-sources.jar
+2023-05-18 20:06:23,801 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.flywaydb:flyway-mysql:9.5.1
+2023-05-18 20:06:23,968 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33-sources.jar
+2023-05-18 20:06:24,267 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33-sources.jar
+2023-05-18 20:06:25,404 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.mysql:mysql-connector-j:8.0.33
+2023-05-18 20:37:58,575 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-18 20:38:56,975 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algalog:alalog-api:0.0.1-SNAPSHOT @ C:\Desenvolvimento\ApiEntrega\alalog-api\pom.xml.
+2023-05-18 20:39:06,447 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-18 20:39:06,521 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 20:39:06,528 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-18 20:40:39,564 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-18 20:40:42,044 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algalog:alalog-api:0.0.1-SNAPSHOT @ C:\Desenvolvimento\ApiEntrega\alalog-api\pom.xml.
+2023-05-18 20:40:43,922 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /alalog-api/src/main/java
+2023-05-18 20:40:43,923 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /alalog-api/src/main/resources
+2023-05-18 20:40:43,929 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /alalog-api/src/main/resources
+2023-05-18 20:40:43,935 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /alalog-api/src/test/java
+2023-05-18 20:40:46,476 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2023-05-18 20:40:48,984 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-18 20:40:49,042 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 20:40:49,050 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-18 20:45:43,077 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 20:45:43,095 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 20:45:43,153 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-18 21:04:48,315 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-18 21:04:48,355 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 21:04:48,365 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-18 21:06:23,273 [Worker-22: Launching alalog-api - AlalogApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-18 21:06:23,313 [Worker-22: Launching alalog-api - AlalogApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 21:06:23,319 [Worker-22: Launching alalog-api - AlalogApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-18 21:09:54,974 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 21:09:54,976 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-18 21:09:55,055 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-18 21:17:20,078 [Worker-18: Launching alalog-api - AlalogApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-18 21:17:20,079 [Worker-18: Launching alalog-api - AlalogApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
