@@ -151,3 +151,5 @@
 2023-05-18 21:09:55,055 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
 2023-05-18 21:17:20,078 [Worker-18: Launching alalog-api - AlalogApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2023-05-18 21:17:20,079 [Worker-18: Launching alalog-api - AlalogApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-18 21:17:20,089 [Worker-18: Launching alalog-api - AlalogApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Desenvolvimento\ApiEntrega\alalog-api\src\test\resources
+2023-05-18 21:36:35,766 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
